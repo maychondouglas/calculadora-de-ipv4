@@ -1,4 +1,4 @@
-# cplusplus-calculadora-de-ip-sem-classe-com-classe-decimal-e-com-classe-na-notacao-cidr
+# Calculadora de Ipv4
 A calculadora IPv4 contem as seguintes funcionalidades: 
 1. Endereçamento com classes: 
 a. Entrada de dados: 
